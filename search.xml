@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>hexo</title>
+      <link href="/2021/08/01/hexo/"/>
+      <url>/2021/08/01/hexo/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>这是一篇关于测试的文章</title>
       <link href="/2021/08/01/test/"/>
       <url>/2021/08/01/test/</url>
       
-        <content type="html"><![CDATA[<h1 id="测试文章">测试文章<a class="header-anchor" href="#测试文章" aria-hidden="true"></a></h1><link rel="stylesheet" href="https://cdn.bootcss.com/KaTeX/0.6.0/katex.min.css">]]></content>
+        <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1>]]></content>
       
       
       <categories>

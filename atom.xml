@@ -6,7 +6,7 @@
   <link href="https://lyite.github.io/atom.xml" rel="self"/>
   
   <link href="https://lyite.github.io/"/>
-  <updated>2021-08-01T13:41:18.269Z</updated>
+  <updated>2021-08-01T14:02:44.599Z</updated>
   <id>https://lyite.github.io/</id>
   
   <author>
@@ -17,19 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo</title>
+    <link href="https://lyite.github.io/2021/08/01/hexo/"/>
+    <id>https://lyite.github.io/2021/08/01/hexo/</id>
+    <published>2021-08-01T14:02:44.000Z</published>
+    <updated>2021-08-01T14:02:44.599Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>这是一篇关于测试的文章</title>
     <link href="https://lyite.github.io/2021/08/01/test/"/>
     <id>https://lyite.github.io/2021/08/01/test/</id>
     <published>2021-08-01T13:39:04.000Z</published>
     <updated>2021-08-01T13:41:18.269Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试文章">测试文章<a class="header-anchor" href="#测试文章" aria-hidden="true"></a></h1><link rel="stylesheet" href="https://cdn.bootcss.com/KaTeX/0.6.0/katex.min.css">]]></content>
+    <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;测试文章&quot;&gt;测试文章&lt;a class=&quot;header-anchor&quot; href=&quot;#测试文章&quot; aria-hidden=&quot;true&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.bootcss.com/Ka</summary>
+    <summary type="html">&lt;h1 id=&quot;测试文章&quot;&gt;&lt;a href=&quot;#测试文章&quot; class=&quot;headerlink&quot; title=&quot;测试文章&quot;&gt;&lt;/a&gt;测试文章&lt;/h1&gt;</summary>
       
     
     
